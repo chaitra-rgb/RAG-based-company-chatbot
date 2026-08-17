@@ -1,0 +1,247 @@
+[
+  {
+    "page_content": "Acme Corporation Employ ee Handbook Version 2026.1 | Effective Date: January 15, 2026 This sample handbook is designed for testing a RAG-based company chatbot. It includes HR policies, leave rules, reimbursement workflows, support contacts, and onboarding details so you can try realistic employee questions. 1. Company Ov erview Acme Corporation is a software and data services company serving mid-market businesses across finance, healthcare, and logistics. The company operates in a hybrid work model and supports employees from product, engineering, customer success, finance, and human resources teams. 2. Working Hours and Attendance Standard working hours are 9:30 AM to 6:30 PM, Monday through Friday. Employees are expected to be available during core collaboration hours from 11:00 AM to 4:00 PM local time. Hybrid employees are required to work from the office on Tuesdays and Thursdays. Fully remote exceptions must be approved by the employee's department head and HR. 3. Leav e Policy",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 1
+    }
+  },
+  {
+    "page_content": "Leave TypeAnnual AllowanceApproval Rule Casual Leave12 days per calendar yearManager approval required in the HR portal Sick Leave10 days per calendar yearInform manager by 10:00 AM; medical note required for more than 2 consecutive days Earned Leave15 days per calendar yearSubmit request at least 7 days in advance unless there is an emergency Unused casual leave does not carry forward. Earned leave can carry forward up to 10 days into the next calendar year. 4. Reimbursement Policy Employees may claim reimbursement for approved business expenses including local travel, client meals, software subscriptions, and home-office accessories. All reimbursements must be submitted through the Finance Portal within 30 days of the expense date. Claims above INR 5,000 require both the reporting manager and finance approver sign-off. Internet reimbursement is capped at INR 1,500 per month for remote and hybrid employees. Home-office equipment reimbursement is capped at INR 15,000 once every 24 months. 5. Onboarding Process New employees complete onboarding over the first five working days. The sequence is: 1. Day 1: HR orientation and laptop handover 2. Day 2: Security training and account setu",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 2
+    }
+  },
+  {
+    "page_content": "hs. 5. Onboarding Process New employees complete onboarding over the first five working days. The sequence is: 1. Day 1: HR orientation and laptop handover 2. Day 2: Security training and account setup 3. Day 3: Team introductions and role overview 4. Day 4: Product demo and documentation review 5. Day 5: Goal-setting meeting with manager All new hires must finish mandatory security awareness training within 7 days of joining. Failure to complete the training may result in temporary suspension of access to",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 2
+    }
+  },
+  {
+    "page_content": "internal tools. 6. Performance Review Cycle Performance reviews are conducted twice a year in June and December. Managers submit ratings through the People Portal, followed by calibration meetings and employee feedback conversations. 7. IT Helpdesk and Support Contacts Team Contact Response Target IT Helpdesk it-support@acme.example Within 4 business hours HR Operations hr-ops@acme.example Within 1 business day Finance Helpdesk finance-help@acme.example Within 2 business days 8. Information Security Rules Employees must use company-managed devices for all production system access. Personal devices may be used only for email and chat tools when mobile device management is enabled. Password sharing is prohibited. Multi-factor authentication is mandatory for VPN, source control, payroll, and customer data systems. 9. Trav el Policy Domestic travel must be approved at least 3 business days in advance. International travel requires department head approval and finance review. Economy class is the default booking class for all employees. 10. Sample Questions for T esting",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 3
+    }
+  },
+  {
+    "page_content": "What are the standard working hours? How much internet reimbursement can an employee claim each month? How many earned leave days can be carried forward? When are performance reviews conducted? What is the response target for the IT Helpdesk? What happens if a new hire does not complete security training within 7 days?",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 4
+    }
+  },
+  {
+    "page_content": "Acme Corporation Employ ee Handbook Version 2026.1 | Effective Date: January 15, 2026 This sample handbook is designed for testing a RAG-based company chatbot. It includes HR policies, leave rules, reimbursement workflows, support contacts, and onboarding details so you can try realistic employee questions. 1. Company Ov erview Acme Corporation is a software and data services company serving mid-market businesses across finance, healthcare, and logistics. The company operates in a hybrid work model and supports employees from product, engineering, customer success, finance, and human resources teams. 2. Working Hours and Attendance Standard working hours are 9:30 AM to 6:30 PM, Monday through Friday. Employees are expected to be available during core collaboration hours from 11:00 AM to 4:00 PM local time. Hybrid employees are required to work from the office on Tuesdays and Thursdays. Fully remote exceptions must be approved by the employee's department head and HR. 3. Leav e Policy",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 1
+    }
+  },
+  {
+    "page_content": "Leave TypeAnnual AllowanceApproval Rule Casual Leave12 days per calendar yearManager approval required in the HR portal Sick Leave10 days per calendar yearInform manager by 10:00 AM; medical note required for more than 2 consecutive days Earned Leave15 days per calendar yearSubmit request at least 7 days in advance unless there is an emergency Unused casual leave does not carry forward. Earned leave can carry forward up to 10 days into the next calendar year. 4. Reimbursement Policy Employees may claim reimbursement for approved business expenses including local travel, client meals, software subscriptions, and home-office accessories. All reimbursements must be submitted through the Finance Portal within 30 days of the expense date. Claims above INR 5,000 require both the reporting manager and finance approver sign-off. Internet reimbursement is capped at INR 1,500 per month for remote and hybrid employees. Home-office equipment reimbursement is capped at INR 15,000 once every 24 months. 5. Onboarding Process New employees complete onboarding over the first five working days. The sequence is: 1. Day 1: HR orientation and laptop handover 2. Day 2: Security training and account setu",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 2
+    }
+  },
+  {
+    "page_content": "hs. 5. Onboarding Process New employees complete onboarding over the first five working days. The sequence is: 1. Day 1: HR orientation and laptop handover 2. Day 2: Security training and account setup 3. Day 3: Team introductions and role overview 4. Day 4: Product demo and documentation review 5. Day 5: Goal-setting meeting with manager All new hires must finish mandatory security awareness training within 7 days of joining. Failure to complete the training may result in temporary suspension of access to",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 2
+    }
+  },
+  {
+    "page_content": "internal tools. 6. Performance Review Cycle Performance reviews are conducted twice a year in June and December. Managers submit ratings through the People Portal, followed by calibration meetings and employee feedback conversations. 7. IT Helpdesk and Support Contacts Team Contact Response Target IT Helpdesk it-support@acme.example Within 4 business hours HR Operations hr-ops@acme.example Within 1 business day Finance Helpdesk finance-help@acme.example Within 2 business days 8. Information Security Rules Employees must use company-managed devices for all production system access. Personal devices may be used only for email and chat tools when mobile device management is enabled. Password sharing is prohibited. Multi-factor authentication is mandatory for VPN, source control, payroll, and customer data systems. 9. Trav el Policy Domestic travel must be approved at least 3 business days in advance. International travel requires department head approval and finance review. Economy class is the default booking class for all employees. 10. Sample Questions for T esting",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 3
+    }
+  },
+  {
+    "page_content": "What are the standard working hours? How much internet reimbursement can an employee claim each month? How many earned leave days can be carried forward? When are performance reviews conducted? What is the response target for the IT Helpdesk? What happens if a new hire does not complete security training within 7 days?",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 4
+    }
+  },
+  {
+    "page_content": "Acme Corporation Employ ee Handbook Version 2026.1 | Effective Date: January 15, 2026 This sample handbook is designed for testing a RAG-based company chatbot. It includes HR policies, leave rules, reimbursement workflows, support contacts, and onboarding details so you can try realistic employee questions. 1. Company Ov erview Acme Corporation is a software and data services company serving mid-market businesses across finance, healthcare, and logistics. The company operates in a hybrid work model and supports employees from product, engineering, customer success, finance, and human resources teams. 2. Working Hours and Attendance Standard working hours are 9:30 AM to 6:30 PM, Monday through Friday. Employees are expected to be available during core collaboration hours from 11:00 AM to 4:00 PM local time. Hybrid employees are required to work from the office on Tuesdays and Thursdays. Fully remote exceptions must be approved by the employee's department head and HR. 3. Leav e Policy",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 1
+    }
+  },
+  {
+    "page_content": "Leave TypeAnnual AllowanceApproval Rule Casual Leave12 days per calendar yearManager approval required in the HR portal Sick Leave10 days per calendar yearInform manager by 10:00 AM; medical note required for more than 2 consecutive days Earned Leave15 days per calendar yearSubmit request at least 7 days in advance unless there is an emergency Unused casual leave does not carry forward. Earned leave can carry forward up to 10 days into the next calendar year. 4. Reimbursement Policy Employees may claim reimbursement for approved business expenses including local travel, client meals, software subscriptions, and home-office accessories. All reimbursements must be submitted through the Finance Portal within 30 days of the expense date. Claims above INR 5,000 require both the reporting manager and finance approver sign-off. Internet reimbursement is capped at INR 1,500 per month for remote and hybrid employees. Home-office equipment reimbursement is capped at INR 15,000 once every 24 months. 5. Onboarding Process New employees complete onboarding over the first five working days. The sequence is: 1. Day 1: HR orientation and laptop handover 2. Day 2: Security training and account setu",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 2
+    }
+  },
+  {
+    "page_content": "hs. 5. Onboarding Process New employees complete onboarding over the first five working days. The sequence is: 1. Day 1: HR orientation and laptop handover 2. Day 2: Security training and account setup 3. Day 3: Team introductions and role overview 4. Day 4: Product demo and documentation review 5. Day 5: Goal-setting meeting with manager All new hires must finish mandatory security awareness training within 7 days of joining. Failure to complete the training may result in temporary suspension of access to",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 2
+    }
+  },
+  {
+    "page_content": "internal tools. 6. Performance Review Cycle Performance reviews are conducted twice a year in June and December. Managers submit ratings through the People Portal, followed by calibration meetings and employee feedback conversations. 7. IT Helpdesk and Support Contacts Team Contact Response Target IT Helpdesk it-support@acme.example Within 4 business hours HR Operations hr-ops@acme.example Within 1 business day Finance Helpdesk finance-help@acme.example Within 2 business days 8. Information Security Rules Employees must use company-managed devices for all production system access. Personal devices may be used only for email and chat tools when mobile device management is enabled. Password sharing is prohibited. Multi-factor authentication is mandatory for VPN, source control, payroll, and customer data systems. 9. Trav el Policy Domestic travel must be approved at least 3 business days in advance. International travel requires department head approval and finance review. Economy class is the default booking class for all employees. 10. Sample Questions for T esting",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 3
+    }
+  },
+  {
+    "page_content": "What are the standard working hours? How much internet reimbursement can an employee claim each month? How many earned leave days can be carried forward? When are performance reviews conducted? What is the response target for the IT Helpdesk? What happens if a new hire does not complete security training within 7 days?",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 4
+    }
+  },
+  {
+    "page_content": "Acme Corporation Employ ee Handbook Version 2026.1 | Effective Date: January 15, 2026 This sample handbook is designed for testing a RAG-based company chatbot. It includes HR policies, leave rules, reimbursement workflows, support contacts, and onboarding details so you can try realistic employee questions. 1. Company Ov erview Acme Corporation is a software and data services company serving mid-market businesses across finance, healthcare, and logistics. The company operates in a hybrid work model and supports employees from product, engineering, customer success, finance, and human resources teams. 2. Working Hours and Attendance Standard working hours are 9:30 AM to 6:30 PM, Monday through Friday. Employees are expected to be available during core collaboration hours from 11:00 AM to 4:00 PM local time. Hybrid employees are required to work from the office on Tuesdays and Thursdays. Fully remote exceptions must be approved by the employee's department head and HR. 3. Leav e Policy",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 1
+    }
+  },
+  {
+    "page_content": "Leave TypeAnnual AllowanceApproval Rule Casual Leave12 days per calendar yearManager approval required in the HR portal Sick Leave10 days per calendar yearInform manager by 10:00 AM; medical note required for more than 2 consecutive days Earned Leave15 days per calendar yearSubmit request at least 7 days in advance unless there is an emergency Unused casual leave does not carry forward. Earned leave can carry forward up to 10 days into the next calendar year. 4. Reimbursement Policy Employees may claim reimbursement for approved business expenses including local travel, client meals, software subscriptions, and home-office accessories. All reimbursements must be submitted through the Finance Portal within 30 days of the expense date. Claims above INR 5,000 require both the reporting manager and finance approver sign-off. Internet reimbursement is capped at INR 1,500 per month for remote and hybrid employees. Home-office equipment reimbursement is capped at INR 15,000 once every 24 months. 5. Onboarding Process New employees complete onboarding over the first five working days. The sequence is: 1. Day 1: HR orientation and laptop handover 2. Day 2: Security training and account setu",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 2
+    }
+  },
+  {
+    "page_content": "hs. 5. Onboarding Process New employees complete onboarding over the first five working days. The sequence is: 1. Day 1: HR orientation and laptop handover 2. Day 2: Security training and account setup 3. Day 3: Team introductions and role overview 4. Day 4: Product demo and documentation review 5. Day 5: Goal-setting meeting with manager All new hires must finish mandatory security awareness training within 7 days of joining. Failure to complete the training may result in temporary suspension of access to",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 2
+    }
+  },
+  {
+    "page_content": "internal tools. 6. Performance Review Cycle Performance reviews are conducted twice a year in June and December. Managers submit ratings through the People Portal, followed by calibration meetings and employee feedback conversations. 7. IT Helpdesk and Support Contacts Team Contact Response Target IT Helpdesk it-support@acme.example Within 4 business hours HR Operations hr-ops@acme.example Within 1 business day Finance Helpdesk finance-help@acme.example Within 2 business days 8. Information Security Rules Employees must use company-managed devices for all production system access. Personal devices may be used only for email and chat tools when mobile device management is enabled. Password sharing is prohibited. Multi-factor authentication is mandatory for VPN, source control, payroll, and customer data systems. 9. Trav el Policy Domestic travel must be approved at least 3 business days in advance. International travel requires department head approval and finance review. Economy class is the default booking class for all employees. 10. Sample Questions for T esting",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 3
+    }
+  },
+  {
+    "page_content": "What are the standard working hours? How much internet reimbursement can an employee claim each month? How many earned leave days can be carried forward? When are performance reviews conducted? What is the response target for the IT Helpdesk? What happens if a new hire does not complete security training within 7 days?",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 4
+    }
+  },
+  {
+    "page_content": "Acme Corporation Employ ee Handbook Version 2026.1 | Effective Date: January 15, 2026 This sample handbook is designed for testing a RAG-based company chatbot. It includes HR policies, leave rules, reimbursement workflows, support contacts, and onboarding details so you can try realistic employee questions. 1. Company Ov erview Acme Corporation is a software and data services company serving mid-market businesses across finance, healthcare, and logistics. The company operates in a hybrid work model and supports employees from product, engineering, customer success, finance, and human resources teams. 2. Working Hours and Attendance Standard working hours are 9:30 AM to 6:30 PM, Monday through Friday. Employees are expected to be available during core collaboration hours from 11:00 AM to 4:00 PM local time. Hybrid employees are required to work from the office on Tuesdays and Thursdays. Fully remote exceptions must be approved by the employee's department head and HR. 3. Leav e Policy",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 1
+    }
+  },
+  {
+    "page_content": "Leave TypeAnnual AllowanceApproval Rule Casual Leave12 days per calendar yearManager approval required in the HR portal Sick Leave10 days per calendar yearInform manager by 10:00 AM; medical note required for more than 2 consecutive days Earned Leave15 days per calendar yearSubmit request at least 7 days in advance unless there is an emergency Unused casual leave does not carry forward. Earned leave can carry forward up to 10 days into the next calendar year. 4. Reimbursement Policy Employees may claim reimbursement for approved business expenses including local travel, client meals, software subscriptions, and home-office accessories. All reimbursements must be submitted through the Finance Portal within 30 days of the expense date. Claims above INR 5,000 require both the reporting manager and finance approver sign-off. Internet reimbursement is capped at INR 1,500 per month for remote and hybrid employees. Home-office equipment reimbursement is capped at INR 15,000 once every 24 months. 5. Onboarding Process New employees complete onboarding over the first five working days. The sequence is: 1. Day 1: HR orientation and laptop handover 2. Day 2: Security training and account setu",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 2
+    }
+  },
+  {
+    "page_content": "hs. 5. Onboarding Process New employees complete onboarding over the first five working days. The sequence is: 1. Day 1: HR orientation and laptop handover 2. Day 2: Security training and account setup 3. Day 3: Team introductions and role overview 4. Day 4: Product demo and documentation review 5. Day 5: Goal-setting meeting with manager All new hires must finish mandatory security awareness training within 7 days of joining. Failure to complete the training may result in temporary suspension of access to",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 2
+    }
+  },
+  {
+    "page_content": "internal tools. 6. Performance Review Cycle Performance reviews are conducted twice a year in June and December. Managers submit ratings through the People Portal, followed by calibration meetings and employee feedback conversations. 7. IT Helpdesk and Support Contacts Team Contact Response Target IT Helpdesk it-support@acme.example Within 4 business hours HR Operations hr-ops@acme.example Within 1 business day Finance Helpdesk finance-help@acme.example Within 2 business days 8. Information Security Rules Employees must use company-managed devices for all production system access. Personal devices may be used only for email and chat tools when mobile device management is enabled. Password sharing is prohibited. Multi-factor authentication is mandatory for VPN, source control, payroll, and customer data systems. 9. Trav el Policy Domestic travel must be approved at least 3 business days in advance. International travel requires department head approval and finance review. Economy class is the default booking class for all employees. 10. Sample Questions for T esting",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 3
+    }
+  },
+  {
+    "page_content": "What are the standard working hours? How much internet reimbursement can an employee claim each month? How many earned leave days can be carried forward? When are performance reviews conducted? What is the response target for the IT Helpdesk? What happens if a new hire does not complete security training within 7 days?",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 4
+    }
+  },
+  {
+    "page_content": "Acme Corporation Employ ee Handbook Version 2026.1 | Effective Date: January 15, 2026 This sample handbook is designed for testing a RAG-based company chatbot. It includes HR policies, leave rules, reimbursement workflows, support contacts, and onboarding details so you can try realistic employee questions. 1. Company Ov erview Acme Corporation is a software and data services company serving mid-market businesses across finance, healthcare, and logistics. The company operates in a hybrid work model and supports employees from product, engineering, customer success, finance, and human resources teams. 2. Working Hours and Attendance Standard working hours are 9:30 AM to 6:30 PM, Monday through Friday. Employees are expected to be available during core collaboration hours from 11:00 AM to 4:00 PM local time. Hybrid employees are required to work from the office on Tuesdays and Thursdays. Fully remote exceptions must be approved by the employee's department head and HR. 3. Leav e Policy",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 1
+    }
+  },
+  {
+    "page_content": "Leave TypeAnnual AllowanceApproval Rule Casual Leave12 days per calendar yearManager approval required in the HR portal Sick Leave10 days per calendar yearInform manager by 10:00 AM; medical note required for more than 2 consecutive days Earned Leave15 days per calendar yearSubmit request at least 7 days in advance unless there is an emergency Unused casual leave does not carry forward. Earned leave can carry forward up to 10 days into the next calendar year. 4. Reimbursement Policy Employees may claim reimbursement for approved business expenses including local travel, client meals, software subscriptions, and home-office accessories. All reimbursements must be submitted through the Finance Portal within 30 days of the expense date. Claims above INR 5,000 require both the reporting manager and finance approver sign-off. Internet reimbursement is capped at INR 1,500 per month for remote and hybrid employees. Home-office equipment reimbursement is capped at INR 15,000 once every 24 months. 5. Onboarding Process New employees complete onboarding over the first five working days. The sequence is: 1. Day 1: HR orientation and laptop handover 2. Day 2: Security training and account setu",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 2
+    }
+  },
+  {
+    "page_content": "hs. 5. Onboarding Process New employees complete onboarding over the first five working days. The sequence is: 1. Day 1: HR orientation and laptop handover 2. Day 2: Security training and account setup 3. Day 3: Team introductions and role overview 4. Day 4: Product demo and documentation review 5. Day 5: Goal-setting meeting with manager All new hires must finish mandatory security awareness training within 7 days of joining. Failure to complete the training may result in temporary suspension of access to",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 2
+    }
+  },
+  {
+    "page_content": "internal tools. 6. Performance Review Cycle Performance reviews are conducted twice a year in June and December. Managers submit ratings through the People Portal, followed by calibration meetings and employee feedback conversations. 7. IT Helpdesk and Support Contacts Team Contact Response Target IT Helpdesk it-support@acme.example Within 4 business hours HR Operations hr-ops@acme.example Within 1 business day Finance Helpdesk finance-help@acme.example Within 2 business days 8. Information Security Rules Employees must use company-managed devices for all production system access. Personal devices may be used only for email and chat tools when mobile device management is enabled. Password sharing is prohibited. Multi-factor authentication is mandatory for VPN, source control, payroll, and customer data systems. 9. Trav el Policy Domestic travel must be approved at least 3 business days in advance. International travel requires department head approval and finance review. Economy class is the default booking class for all employees. 10. Sample Questions for T esting",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 3
+    }
+  },
+  {
+    "page_content": "What are the standard working hours? How much internet reimbursement can an employee claim each month? How many earned leave days can be carried forward? When are performance reviews conducted? What is the response target for the IT Helpdesk? What happens if a new hire does not complete security training within 7 days?",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 4
+    }
+  },
+  {
+    "page_content": "Acme Corporation Employ ee Handbook Version 2026.1 | Effective Date: January 15, 2026 This sample handbook is designed for testing a RAG-based company chatbot. It includes HR policies, leave rules, reimbursement workflows, support contacts, and onboarding details so you can try realistic employee questions. 1. Company Ov erview Acme Corporation is a software and data services company serving mid-market businesses across finance, healthcare, and logistics. The company operates in a hybrid work model and supports employees from product, engineering, customer success, finance, and human resources teams. 2. Working Hours and Attendance Standard working hours are 9:30 AM to 6:30 PM, Monday through Friday. Employees are expected to be available during core collaboration hours from 11:00 AM to 4:00 PM local time. Hybrid employees are required to work from the office on Tuesdays and Thursdays. Fully remote exceptions must be approved by the employee's department head and HR. 3. Leav e Policy",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 1
+    }
+  },
+  {
+    "page_content": "Leave TypeAnnual AllowanceApproval Rule Casual Leave12 days per calendar yearManager approval required in the HR portal Sick Leave10 days per calendar yearInform manager by 10:00 AM; medical note required for more than 2 consecutive days Earned Leave15 days per calendar yearSubmit request at least 7 days in advance unless there is an emergency Unused casual leave does not carry forward. Earned leave can carry forward up to 10 days into the next calendar year. 4. Reimbursement Policy Employees may claim reimbursement for approved business expenses including local travel, client meals, software subscriptions, and home-office accessories. All reimbursements must be submitted through the Finance Portal within 30 days of the expense date. Claims above INR 5,000 require both the reporting manager and finance approver sign-off. Internet reimbursement is capped at INR 1,500 per month for remote and hybrid employees. Home-office equipment reimbursement is capped at INR 15,000 once every 24 months. 5. Onboarding Process New employees complete onboarding over the first five working days. The sequence is: 1. Day 1: HR orientation and laptop handover 2. Day 2: Security training and account setu",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 2
+    }
+  },
+  {
+    "page_content": "hs. 5. Onboarding Process New employees complete onboarding over the first five working days. The sequence is: 1. Day 1: HR orientation and laptop handover 2. Day 2: Security training and account setup 3. Day 3: Team introductions and role overview 4. Day 4: Product demo and documentation review 5. Day 5: Goal-setting meeting with manager All new hires must finish mandatory security awareness training within 7 days of joining. Failure to complete the training may result in temporary suspension of access to",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 2
+    }
+  },
+  {
+    "page_content": "internal tools. 6. Performance Review Cycle Performance reviews are conducted twice a year in June and December. Managers submit ratings through the People Portal, followed by calibration meetings and employee feedback conversations. 7. IT Helpdesk and Support Contacts Team Contact Response Target IT Helpdesk it-support@acme.example Within 4 business hours HR Operations hr-ops@acme.example Within 1 business day Finance Helpdesk finance-help@acme.example Within 2 business days 8. Information Security Rules Employees must use company-managed devices for all production system access. Personal devices may be used only for email and chat tools when mobile device management is enabled. Password sharing is prohibited. Multi-factor authentication is mandatory for VPN, source control, payroll, and customer data systems. 9. Trav el Policy Domestic travel must be approved at least 3 business days in advance. International travel requires department head approval and finance review. Economy class is the default booking class for all employees. 10. Sample Questions for T esting",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 3
+    }
+  },
+  {
+    "page_content": "What are the standard working hours? How much internet reimbursement can an employee claim each month? How many earned leave days can be carried forward? When are performance reviews conducted? What is the response target for the IT Helpdesk? What happens if a new hire does not complete security training within 7 days?",
+    "metadata": {
+      "source": "Acme Corporation Employee Handbook.pdf",
+      "page": 4
+    }
+  }
+]
