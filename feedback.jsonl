@@ -1,0 +1,1 @@
+{"timestamp": "2026-05-12T18:08:08.592167+00:00", "company_name": "Acme Corporation", "rating": "Helpful", "comment": "", "messages": [{"role": "user", "content": "what are leave policies"}, {"role": "assistant", "content": "What are the standard working hours? Source: Acme Corporation Employee Handbook.pdf."}]}
